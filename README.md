@@ -1,3 +1,7 @@
+# Infos
+email: lailsongabrielturbo@gmail.com
+tel: 87 996096319
+
 # web-developer-challenge
 
 Olá!
